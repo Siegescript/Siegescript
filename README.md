@@ -11,7 +11,7 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**
+**Languages & Frameworks:**\
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -19,7 +19,7 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-**Databases & Tools:**
+**Databases & Tools:**\
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 

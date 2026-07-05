@@ -11,30 +11,30 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
+**Languages & Frameworks:**
 ![C](https://skillicons.dev/icons?i=c)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-**Frameworks & Tools:**
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+**Databases & Tools:**
+![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Siegescript&show_icons=true&theme=visual_studio_dark&hide_border=true)](https://github.com/Siegescript)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=visual_studio_dark&hide_border=true)](https://github.com/Siegescript)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Siegescript&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ### 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.s.l.duran@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.s.l.duran@gmail.com)
 [![X / Twitter](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stefan_lou4099)
 
 ---

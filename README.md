@@ -11,66 +11,31 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br />C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-  </tr>
-</table>
+**Languages:**
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Frameworks & Tools:**
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Git](https://skillicons.dev/icons?i=git)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Siegescript&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Siegescript&show_icons=true&theme=visual_studio_dark&hide_border=true)](https://github.com/Siegescript)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=visual_studio_dark&hide_border=true)](https://github.com/Siegescript)
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:sean.s.l.duran@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fstefan_lou4099">
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean.s.l.duran@gmail.com)
+[![X / Twitter](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stefan_lou4099)
 
 ---
 

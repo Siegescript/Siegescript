@@ -70,7 +70,7 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
   </a>
   &nbsp;
   <a href="https://x.com/stefan_lou4099" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
 </p>
 

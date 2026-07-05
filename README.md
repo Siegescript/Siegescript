@@ -55,9 +55,9 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siegescript&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Siegescript&show_icons=true&theme=visual_studio_dark&hide_border=true" alt="GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Siegescript&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -70,7 +70,6 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
   </a>
   &nbsp;
   <a href="https://x.com/stefan_lou4099" target="_blank">
-    <img src="https://shields.io" alt="X" />
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>

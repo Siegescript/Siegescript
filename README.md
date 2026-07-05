@@ -69,9 +69,7 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://x.com/stefan_lou4099" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
+  <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fstefan_lou4099">
 </p>
 
 ---

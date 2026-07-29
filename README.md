@@ -3,8 +3,8 @@
 ### 🚀 About Me
 I'm an aspiring developer who wants to build projects, write clean code, and learn new technologies. 
 
-- 🔭 **Current Focus:** My Web Portfolio
-- 🌱 **Learning:** Web-dev, Data Structures & Algorithms
+- 🔭 **Current Focus:** An Inventory System
+- 🌱 **Learning:** Web-dev, Data Structures & Algorithms, Game-dev, AI/ML
 - 💬 **Ask me about:** My hobbies
 
 ---
@@ -40,17 +40,3 @@ I'm an aspiring developer who wants to build projects, write clean code, and lea
 ---
 
 *“An idiot admires complexity, a genius admires simplicity.”* – Terry A. Davis
-<!--
-**Siegescript/Siegescript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

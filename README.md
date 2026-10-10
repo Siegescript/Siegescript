@@ -3,7 +3,7 @@
 ### > About Me
 I'm an aspiring developer who wants to build projects, write clean code, and learn new technologies. 
 
-- **Current Focus:** An Inventory System
+- **Current Focus:** DSA Notes
 - **Learning:** Web-dev, Data Structures & Algorithms, Game-dev, AI/ML
 - **Ask me about:** My hobbies
 
